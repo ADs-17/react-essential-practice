@@ -1,4 +1,4 @@
-import Header from "./components/Header";
+import Header from "./components/Header/Header";
 import CoreConcept from "./components/CoreConcept";
 
 import componentsImg from "./assets/components.png";
